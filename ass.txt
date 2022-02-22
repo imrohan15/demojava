@@ -1,0 +1,68 @@
+Hello, I am Rohan Sehgal and i belong to Khachrod, a town in ujjain
+district of Madhya Pradesh. I am currenty pursuing master's in
+Computer Application from Acropolis institute of technology and
+Research Indore and i had completed my bachelors in Business
+Administration specialization in Computer Application from Sinhgad 
+College of Arts and Commerce, Pune.
+I got selected in a esteemd Multi National Company - Capgemini and 
+currently undergoing training provided by Capgemini.
+The key technologies which i have learned in  my training  till now are 
+Java and MySQL.  
+In my leisure time i like to cook and watch movies And Web series. 
+Being Flexible and Adaptive are my key strengths. 
+
+Talking about my Acadimic projects - i have done 2 projects.
+My First project was Online examination System which i did in Final Year 
+of my Graduation. Online examination System is a Web Application which is 
+an Automated Examination System where students can register themselves and  
+appear for various exams and get evaluated for the same.
+
+The technologies which i used in this project are Java(Servlet/Jsp), 
+MySQL, HTML and CSS. In this project There are two types of users - 
+ADMIN and Studnets/Learners. 
+ADMIN can  perform various operations like manage Exam where he can add
+a new exam/subject or update details of any any existing exam or delete
+an exam. After adding exam ADMIN will have to add Questions for the selected
+exam. Admin can also manage the details of the user registered in the system
+and can also view the results of the students. 
+Coming to the user/Students part.
+Students first need to register themselves on the website after which
+they need to login using their ID and Password.
+
+After login Students can choose an exam they wants to attempt. 
+on selcting a exam the students are made familier with the environment 
+and instructions after which the exam starts. One By One a question appears
+on the screen with four options. The student needs to give a response from 
+4 options or leave it unattepted. On Completing the exam student can submit 
+the exam. On submitting the exam a result is generated and get saved in the 
+database. The student can view the results of all the previously attemted 
+exams. Students can also Update their profile detals and well as 
+Change password and on completing the exam the studnents can logout from
+the system.
+
+The second project which i made in my 3rd Semester of my MCA is Hostel 
+management System. This particular project deals with the problems on 
+managing a hostel and avoids the problems which occurs when carried out 
+manually. 
+This project can be used for managing various activities in the hostel such 
+as Student details management, Room details management, Allotment of rooms, 
+Vacating rooms, Fee management etc and hence make the process fast and 
+effective. Moreover this system is designed for the particular need of 
+hostels to carry out operations in a smooth and effective manner. 
+The technologies which i used for this project are Java Swing and MySQL. 
+After login the user can Check the availability of rooms and Beds.
+If Rooms and beds are available he can allot a room to a Student. On 
+alloting the room the user is re directed to fee manager where he can 
+recive payement and generate a recipt. The Fee can be accepted in part 
+payments as well as yearly payments.
+The User can vacate the room if a student wants to leave the hostel and
+will autimatically calculate the outstanding dues of the student. 
+The User can Add a new room/Update room details as well as delete a room
+from the system. Similary students details,Fee details and User 
+details can be managed. 
+
+Thats all about me and my projects.
+Thank you so much.
+
+
+

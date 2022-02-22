@@ -1,0 +1,26 @@
+$ cd f:   -> Change Directory
+
+HP@LAPTOP-A8J0AMDL MINGW64 /f
+$ git clone https://github.com/prabhat1510/JCAWS-4-I-Batch-10-assessment.git      -> Used to clone files from a remote repository
+
+
+HP@LAPTOP-A8J0AMDL MINGW64 /f/JCAWS-4-I-Batch-10-assessment (main)
+
+$ git add *      -> used to add all files or git add . or git add * or git add -A 
+
+
+$ git commit -m "Assignment Rohan Sehgal"   -> Commit With a Message
+
+
+
+
+$ git pull  -> update Repository  
+
+
+
+$ git push  -> Push Changes to remote Repository After this changes will be made to remote repository
+
+
+DONE!!
+
+escape shift colon q
